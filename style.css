@@ -1,0 +1,93 @@
+body {
+  background-color: lightblue;
+
+}
+
+h1 {
+  color: blue;
+  text-align: center;
+  font-family: verdana;
+}
+
+
+p {
+  font-family: verdana;
+  font-size: 18px;
+    text-align: center;
+}
+
+#producerLevel {
+    margin: auto;
+    text-align:center;
+    padding-top: 20px;
+    margin-bottom: 20px;
+    font-size: 32px;
+    border:5px solid;
+    border-radius:10px;
+    background-color:cyan;
+    width:300px;
+    height:50px;    
+}
+
+easterEgg {
+  margin: auto;
+    font-size:30px; 
+}
+
+#totalCookies {
+    margin: auto;
+    text-align:center;
+    padding-top: 20px;
+    margin-bottom: 20px;
+    font-size: 32px;
+    border:5px solid;
+    border-radius:10px;
+    background-color:lightpink;
+    width:200px;
+    height:50px;    
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 265px;
+
+}
+
+.cookiecenter {
+  display: block;
+  width: 34.55555%;
+  height: 123px;
+
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    ;
+   
+    
+}
+
+td {
+    border: 2px solid gold;
+    margin: auto;
+    
+}
+
+#name {
+ border: 5px solid;
+ margin: auto;
+ padding: 5px;
+ width: 255px;
+ height: 65px;
+ background-color: greenyellow;
+ border-radius: 10px;
+ font-family: verdana;
+ text-align:center;
+ font-size: 30px;
+ margin-top:15px;
+}
